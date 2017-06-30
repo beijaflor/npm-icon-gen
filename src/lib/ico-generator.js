@@ -10,7 +10,7 @@ export const ICO = {
    * Sizes required for the ICO file.
    * @type {Array}
    */
-  imageSizes: [16, 24, 32, 48, 64, 128, 256],
+  imageSizes: [16, 32, 152],
 
   /**
    * Size of the file header.
